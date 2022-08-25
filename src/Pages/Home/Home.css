@@ -1,0 +1,15 @@
+.home{
+    padding-top: 10em;
+    height: 95vh;
+    background-color: white;
+}
+.titulo{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+}
+
+@media (max-width: 992px){
+    .home{
+        background-color: rgba(227, 231, 240, 0.493);
+    }
+}
